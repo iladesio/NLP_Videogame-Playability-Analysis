@@ -1,0 +1,3 @@
+[submodule "demo/demo/steam"]
+	path = demo/demo/steam
+	url = https://github.com/andreibarbu5/steam.git

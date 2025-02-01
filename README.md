@@ -1,4 +1,5 @@
-# Big Data Project - M.Sc. in Computer Science  
+# NLP Approach for Video Game Playability Analysis Based on Players' Reviews
+## Big Data Project - M.Sc. in Computer Science  
 **Sapienza University of Rome**
 
 ## Project Overview
